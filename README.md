@@ -94,6 +94,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Feito por Neilton Seguins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
+Desenvolvido por [Alura](https://www.alura.com.br/).
+
+Instrutor: [Neilton Seguins](https://cursos.alura.com.br/user/neilton-seguins) 
+
+👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
 
 ---
